@@ -1,0 +1,20 @@
+Game idea (short description) 
+My current game idea is to create a player versus player fighting game that has a stage that scrolls. So essentially, I would like to create a fighting scroller player versus player game.
+
+Scenario and characters description (include placeholder graphics, drafts, references)  
+Currently the plan is to have around four characters that the two players can chose from. Each character will have some special moves that will be specific to them. Some will attack slower, but punch harder, and some will attack faster, but have weaker punches. Some characters will be more mobile, and some will be faster.
+
+Characters’ actions and goals 
+The characters themselves might have some small backstory, but nothing right now is certain. 
+
+Game Win/Lose conditions
+The game is won/loss when either player wins or loses by either getting caught outside the moving world/map, or when the opponent beats the other player.
+
+Progression of levels
+There would not be any real progression of levels as it would be a player versus player, so Ideally the competition is your opponent in real life.
+
+Sources of inspiration (other games, movies, etc… that inspired your idea)
+Some of my inspirations for wanting to make this game are Super Smash Bros Ultimate, Super Smash Bros Brawl, Kirby Triple deluxe, Super Mario Bros, Stick Fight, and many games of similar genre of 2D platformers and fighting games.
+
+What skills/interests you are looking for in a team mate
+I am looking for team mates who can do their part of the game creation. It does not matter if they struggle as help will always be offered, I would just like classmates who can get the work done properly and on time. Punctuality and effort are what I am looking for in teammates!
